@@ -1,0 +1,67 @@
+{
+  "name": "MeloNX: Source",
+  "subtitle": "A source engine ported MeloNX",
+  "description": "Nothing to fill in :,)",
+  "iconURL": "https://i.imgur.com/3BIFqJU.png",
+  "website": "https://melonx.org/",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/b8g4esD.png",
+  "apps": [
+    {
+      "name": "Entitlement",
+      "bundleIdentifier": "com.stos.Entitlement",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/JadoPRv.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "MeloNX",
+      "bundleIdentifier": "com.stossy11.MeloNX",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/1q3sHgT.png",
+      "tintColor": "#6a4cc7",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.get-task-allow",
+          "com.apple.get-more-ram"
+        ],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "MeloNX needs access to your Photo Library in order to save images"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "Welcome, to MeloNX Source",
+      "identifier": "news_ynrsq378ir",
+      "caption": "Yeah it’s now a source",
+      "date": "2025-10-08T00:12",
+      "tintColor": "#6156e2",
+      "imageURL": "https://i.imgur.com/dpHsCE0.png",
+      "notify": true,
+      "url": "",
+      "appID": "com.stossy11.MeloNX"
+    }
+  ]
+}
