@@ -13,6 +13,7 @@
     {
       "name": "Entitlement",
       "bundleIdentifier": "com.stos.Entitlement",
+      "marketplaceID": "",
       "developerName": "Valve",
       "subtitle": "Source 1 toolkit, now on iOS",
       "localizedDescription": "That’s pretty awesome!",
@@ -30,18 +31,12 @@
           "buildVersion": "69.67.12",
           "minOSVersion": "2.6"
         }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "Xcode on iFon 🤑🤑🤑🤑"
-        ],
-        "privacy": {}
-      },
-      "patreon": {}
+      ]
     },
     {
       "name": "MeloNX",
       "bundleIdentifier": "com.stossy11.MeloNX",
+      "marketplaceID": "",
       "developerName": "Stossy11",
       "subtitle": "An awesome Gold source, to source game",
       "localizedDescription": "Pretty cool right?",
@@ -59,17 +54,7 @@
           "buildVersion": "1.69.67.32",
           "minOSVersion": "2.0"
         }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "Get-Task-Allow",
-          "Get-More-Ram"
-        ],
-        "privacy": {
-          "NSPhotoLibraryAddUsageDescription": "MeloNX needs access to your Photo Library in order to save images"
-        }
-      },
-      "patreon": {}
+      ]
     }
   ],
   "news": [
