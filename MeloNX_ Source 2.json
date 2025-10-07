@@ -14,7 +14,6 @@
     {
       "name": "Entitlement",
       "bundleIdentifier": "com.stos.Entitlement",
-      "marketplaceID": "",
       "developerName": "Valve",
       "subtitle": "Source 1 toolkit, now on iOS",
       "localizedDescription": "That’s pretty awesome!",
@@ -44,7 +43,6 @@
     {
       "name": "MeloNX",
       "bundleIdentifier": "com.stossy11.MeloNX",
-      "marketplaceID": "",
       "developerName": "Stossy11",
       "subtitle": "An awesome Gold source, to source game",
       "localizedDescription": "Pretty cool right?",
