@@ -4,7 +4,6 @@
   "description": "Nothing to fill in :,)",
   "iconURL": "https://i.imgur.com/3BIFqJU.png",
   "website": "https://melonx.org/",
-  "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [],
   "headerURL": "https://i.imgur.com/b8g4esD.png",
@@ -25,7 +24,6 @@
         "entitlements": [],
         "privacy": {}
       },
-      "patreon": {}
     },
     {
       "name": "MeloNX",
@@ -58,7 +56,6 @@
           "NSPhotoLibraryAddUsageDescription": "MeloNX needs access to your Photo Library in order to save images"
         }
       },
-      "patreon": {}
     }
   ],
   "news": [
