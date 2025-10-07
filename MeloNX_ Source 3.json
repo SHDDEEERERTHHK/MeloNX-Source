@@ -4,7 +4,6 @@
   "description": "Nothing to fill in :,)",
   "iconURL": "https://i.imgur.com/3BIFqJU.png",
   "website": "https://melonx.org/",
-  "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [],
   "headerURL": "https://i.imgur.com/b8g4esD.png",
@@ -12,7 +11,6 @@
     {
       "name": "Entitlement",
       "bundleIdentifier": "com.stos.Entitlement",
-      "marketplaceID": "",
       "developerName": "Valve",
       "subtitle": "Source 1 toolkit, now on iOS",
       "localizedDescription": "That’s pretty awesome!",
@@ -40,7 +38,6 @@
     {
       "name": "MeloNX",
       "bundleIdentifier": "com.stossy11.MeloNX",
-      "marketplaceID": "",
       "developerName": "Stossy11",
       "subtitle": "An awesome Gold source, to source game",
       "localizedDescription": "Pretty cool right?",
