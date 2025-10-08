@@ -1,6 +1,6 @@
 # MeloNX-Source
 A port of MeloNX, a gold source game, ported to source engine
-##how to add this source##
+# How to add this source
 1. open sidestore/altstore
 2. then press on "Sources"
 3. then click on the + button
